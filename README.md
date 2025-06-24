@@ -24,7 +24,7 @@ I rely on documentation, research, and artificial intelligence to troubleshoot a
   - Laravel
   - PostgreSQL
   - TypeScript, Go, Java
-- 👯 Looking forward to collaborate on backend or full-stack projects.
+- 👯 Looking forward to collaborate on backend and mobile development projects.
 - 💬 Ask me anything — I’ll help if it’s in my domain 😉
 - 🎯 Outside tech: I enjoy music, exploring, and learning new skills.
 - 📫 Reach out to me at: [lalo-ber-14@hotmail.com](mailto:lalo-ber-14@hotmail.com)
